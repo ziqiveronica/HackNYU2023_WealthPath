@@ -1,6 +1,6 @@
 # HackNYU2023_WealthPath
 
-## Project Name:
+## Project Name
 WealthPath
 
 ## Inspiration
