@@ -42,7 +42,7 @@ fclose(fid);
 
 
 
-Project Story:
+**Project Story:**
 ## Inspiration
 The inspiration behind WealthPath comes from the need to empower individuals with the tools and knowledge to take control of their financial future. We believe that everyone deserves to have access to financial literacy resources, regardless of their socioeconomic background. Through WealthPath, we aim to break down barriers to financial inclusion and make financial literacy accessible to all.
 
